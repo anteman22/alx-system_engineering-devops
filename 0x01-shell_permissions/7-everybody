@@ -1,0 +1,2 @@
+#!/bin/bash
+hmod +x hello
