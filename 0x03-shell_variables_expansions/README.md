@@ -1,0 +1,1 @@
+shell assignment on variables
